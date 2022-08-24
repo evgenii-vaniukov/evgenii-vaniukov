@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @evgenii-vaniukov
-- 👀 Python, Rust
+- 👀 Python, Rust, ML
 - 📫 You can reach me via Telegram @evgeniivaniukov
 
 <!---
