@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @evgenii-vaniukov
-- 👀 I’m interested in backend development, ML, Blockchain technologies
+- 👀 Python, Rust
 - 📫 You can reach me via Telegram @evgeniivaniukov
 
 <!---
