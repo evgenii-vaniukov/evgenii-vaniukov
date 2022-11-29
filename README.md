@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @evgenii-vaniukov
+- 👋 Hi, I’m Evgenii
 - 👀 Flutter entusiast
 - 📫 You can reach me via Telegram @evgeniivaniukov
 - 📚 I'd love to participate on Flutter projects, so feel more than welcome to contact me!
