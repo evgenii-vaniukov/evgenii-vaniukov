@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Evgenii
-- 👀 Flutter enthusiast
+- 👀 Next.js and Flutter enthusiast.
+- ⚒️Capable of building RESTful backend with express.js
 - 📫 You can reach me via Telegram @evgeniivaniukov
-- 📚 I'd love to participate on Flutter projects, so feel more than welcome to contact me!
+- 📚 Check the web service cs2utilities.com if you are into Counter-Strike 2.
 
 <!---
 evgenii-vaniukov/evgenii-vaniukov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
