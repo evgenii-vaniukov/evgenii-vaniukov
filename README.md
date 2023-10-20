@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Evgenii
 - 👀 Next.js and Flutter enthusiast.
 - ⚒️Capable of building RESTful backend with express.js
-- 📫 You can reach me via email @evaniukov@gmail.com || Discord: evgenii.vaniukov
+- 📫 You can reach me via email evaniukov@gmail.com || Discord: evgenii.vaniukov
 - 📚 Check the web service cs2utilities.com if you are into Counter-Strike 2.
 
 <!---
