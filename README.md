@@ -1,6 +1,4 @@
-Multidisciplinary Full-Stack Developer. 
-Passionate about writing clean and maintainable code. 
-
+Backend Developer
 
 
 <!---
