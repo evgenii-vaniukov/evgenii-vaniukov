@@ -1,7 +1,6 @@
 - 🤘🏻 Hi, I’m Evgenii Vaniukov
 - 👀 I’m working as a Backend Developer
-- 🌱 I’m currently learning LLM Development, Design Patterns, and System Design
-- 💻 I want to collaborate on projects utilizing Large Language Models
+- 💻 I’m currently learning LLM Development, Design Patterns, and System Design
 - 📫 Feel free to reach out on LinkedIn
 
 <!---
